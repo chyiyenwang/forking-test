@@ -25,6 +25,8 @@ Things you may want to cover:
 
 asd;fjasdfj;ajsdf;lj;lasdfj
 
+Github sucks!!!
+
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
